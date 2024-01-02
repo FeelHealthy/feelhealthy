@@ -1,0 +1,41 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/exercise-regimens.jpg",
+      "name": "Exercise Regimens",
+      "url": "./exercise-regimens/"
+    },
+    {
+      "img": "menu/functional-training.jpg",
+      "name": "Functional Training",
+      "url": "./functional-training/"
+    },
+    {
+      "img": "menu/injury-prevention.jpg",
+      "name": "Injury Prevention",
+      "url": "./injury-prevention/"
+    },
+    {
+      "img": "menu/recovery-rest.jpg",
+      "name": "Recovery & Rest",
+      "url": "./recovery-rest/"
+    }
+  ],
+  "title": "Fitness Evolution",
+  "h1": "Fitness Evolution",
+  "url": "https://feelhealthy.github.io/fitness-evolution/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Fitness Evolution",
+      "url": "/fitness-evolution/"
+    }
+  ],
+  "keywords": "fitness, evolution, wellness, exercise, workout, health",
+  "description": "Discover the evolution of fitness and how it has impacted the wellness industry. Find tips and resources to improve your exercise routine and overall health.",
+  "about": "Fitness evolution is a topic that explores the history and progress of fitness and how it has transformed the wellness industry. From early forms of exercise to modern-day workouts, this topic delves into the advancements made over time and how they have improved our understanding of health and fitness. The benefits of regular exercise are numerous, including reduced risk of chronic diseases, improved mental health, and increased energy levels. With Wellness Synthesis, you can access valuable resources, including tips for designing an effective workout routine, nutrition guidance, and expert advice on living a healthy lifestyle. Whether you are looking to start a new exercise plan, or simply want to learn more about the evolution of fitness, our website has something for everyone."
+}

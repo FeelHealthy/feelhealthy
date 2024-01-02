@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-importance-of-self-care-for-mental-and-emotional-health.jpg",
+      "name": "The Importance of Self-Care for Mental and Emotional Health",
+      "url": "./the-importance-of-self-care-for-mental-and-emotional-health/"
+    },
+    {
+      "img": "menu/how-to-create-a-personalized-self-care-routine.jpg",
+      "name": "How to Create a Personalized Self-Care Routine",
+      "url": "./how-to-create-a-personalized-self-care-routine/"
+    },
+    {
+      "img": "menu/the-role-of-mindfulness-in-self-care.jpg",
+      "name": "The Role of Mindfulness in Self-Care",
+      "url": "./the-role-of-mindfulness-in-self-care/"
+    },
+    {
+      "img": "menu/nurturing-yourself-with-nutrition-and-exercise.jpg",
+      "name": "Nurturing Yourself with Nutrition and Exercise",
+      "url": "./nurturing-yourself-with-nutrition-and-exercise/"
+    },
+    {
+      "img": "menu/building-a-support-network-for-holistic-wellness.jpg",
+      "name": "Building a Support Network for Holistic Wellness",
+      "url": "./building-a-support-network-for-holistic-wellness/"
+    }
+  ],
+  "title": "Self-Care Rituals",
+  "h1": "Self-Care Rituals",
+  "url": "https://feelhealthy.github.io/stress-resilience/self-care-rituals/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Stress Resilience",
+      "url": "/stress-resilience/"
+    },
+    {
+      "name": "Self-Care Rituals",
+      "url": "/stress-resilience/self-care-rituals/"
+    }
+  ],
+  "keywords": "self-care, rituals, wellness, mental health, mindfulness, relaxation, stress relief",
+  "description": "Explore self-care rituals to boost your wellness, mental health, and mindfulness. Learn relaxation and stress relief techniques to improve your quality of life.",
+  "about": "Self-care rituals are important for everyone's wellness journey. They are a set of routines and practices that prioritize self-love, relaxation and mindfulness to improve physical and emotional health. We offer a comprehensive guide to self-care rituals, including meditation, nutrition, exercise, sleep hygiene and much more. Explore our website for tips and techniques to help de-stress, rejuvenate and lead a healthy, balanced life."
+}

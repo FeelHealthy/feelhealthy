@@ -1,0 +1,41 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/stress-management-techniques.jpg",
+      "name": "Stress Management Techniques",
+      "url": "./stress-management-techniques/"
+    },
+    {
+      "img": "menu/sleep-optimization.jpg",
+      "name": "Sleep Optimization",
+      "url": "./sleep-optimization/"
+    },
+    {
+      "img": "menu/time-management.jpg",
+      "name": "Time Management",
+      "url": "./time-management/"
+    },
+    {
+      "img": "menu/self-care-rituals.jpg",
+      "name": "Self-Care Rituals",
+      "url": "./self-care-rituals/"
+    }
+  ],
+  "title": "Stress Resilience",
+  "h1": "Stress Resilience",
+  "url": "https://feelhealthy.github.io/stress-resilience/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Stress Resilience",
+      "url": "/stress-resilience/"
+    }
+  ],
+  "keywords": "stress resilience, coping with stress, stress management, stress reduction, stress relief",
+  "description": "Learn strategies for developing stress resilience and managing stress effectively for improved well-being and quality of life. Discover techniques for coping with stress and reducing its negative impact on your health.",
+  "about": "Stress is a common experience that affects individuals of all ages and backgrounds. While some stress can be helpful, chronic stress can have negative effects on both physical and mental health. By developing stress resilience, individuals can learn to manage stress effectively and reduce its negative impact on their well-being. At feelhealthy.github.io, we provide resources and guidance on stress reduction, coping with stress, and stress management techniques. Our expert content covers topics such as mindfulness, meditation, exercise, and self-care strategies that can help individuals build resilience and thrive in the face of stress. Whether you are looking to reduce stress in your daily life, manage a stressful event or situation, or simply enhance your overall well-being, the resources at feelhealthy.github.io can help you achieve your goals."
+}

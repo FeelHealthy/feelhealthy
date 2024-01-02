@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-science-behind-the-mind-body-connection.jpg",
+      "name": "The Science Behind the Mind-Body Connection",
+      "url": "./the-science-behind-the-mind-body-connection/"
+    },
+    {
+      "img": "menu/how-stress-affects-your-physical-health.jpg",
+      "name": "How Stress Affects Your Physical Health",
+      "url": "./how-stress-affects-your-physical-health/"
+    },
+    {
+      "img": "menu/harnessing-the-power-of-positive-thinking.jpg",
+      "name": "Harnessing the Power of Positive Thinking",
+      "url": "./harnessing-the-power-of-positive-thinking/"
+    },
+    {
+      "img": "menu/the-role-of-mindfulness-in-health-and-well-being.jpg",
+      "name": "The Role of Mindfulness in Health and Well-being",
+      "url": "./the-role-of-mindfulness-in-health-and-well-being/"
+    },
+    {
+      "img": "menu/cultivating-emotional-resilience-for-better-health.jpg",
+      "name": "Cultivating Emotional Resilience for Better Health",
+      "url": "./cultivating-emotional-resilience-for-better-health/"
+    }
+  ],
+  "title": "Mind-Body Connection",
+  "h1": "Mind-Body Connection",
+  "url": "https://feelhealthy.github.io/holistic-health/mind-body-connection/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Holistic Health",
+      "url": "/holistic-health/"
+    },
+    {
+      "name": "Mind-Body Connection",
+      "url": "/holistic-health/mind-body-connection/"
+    }
+  ],
+  "keywords": "mind-body connection, wellness, health, meditation, yoga, mindfulness",
+  "description": "Explore the powerful connection between the mind and body with feelhealthy.github.io. Discover how meditation, yoga, and mindfulness can improve your overall health and well-being.",
+  "about": "The mind-body connection refers to the link between mental and physical health. When your mind and body are in sync, you can achieve improved health and well-being. At feelhealthy.github.io, we explore the benefits of practices such as meditation, yoga, and mindfulness, which can help connect the mind and body. These practices improve both mental and physical health, reduce stress, and promote a sense of calm and relaxation. Through our articles, videos, and guided meditations, you can learn how to cultivate a healthier mind-body connection and achieve wellness for life."
+}

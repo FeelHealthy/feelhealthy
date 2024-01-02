@@ -1,0 +1,41 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/integrative-medicine.jpg",
+      "name": "Integrative Medicine",
+      "url": "./integrative-medicine/"
+    },
+    {
+      "img": "menu/alternative-therapies.jpg",
+      "name": "Alternative Therapies",
+      "url": "./alternative-therapies/"
+    },
+    {
+      "img": "menu/mind-body-connection.jpg",
+      "name": "Mind-Body Connection",
+      "url": "./mind-body-connection/"
+    },
+    {
+      "img": "menu/healing-environments.jpg",
+      "name": "Healing Environments",
+      "url": "./healing-environments/"
+    }
+  ],
+  "title": "Holistic Health",
+  "h1": "Holistic Health",
+  "url": "https://feelhealthy.github.io/holistic-health/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Holistic Health",
+      "url": "/holistic-health/"
+    }
+  ],
+  "keywords": "holistic health, natural remedies, mindfulness, self-care, balanced lifestyle",
+  "description": "Discover the benefits of holistic health practices. Learn about natural remedies, mindfulness, self-care, and a balanced lifestyle on feelhealthy.github.io.",
+  "about": "Holistic health is an approach to wellness that considers the whole person: mind, body, and spirit. It emphasizes the interconnectedness of all aspects of life and offers a more balanced approach to health than conventional medicine. Holistic practices include natural remedies, mindful nutrition, stress reduction techniques, and mindfulness practices like meditation and yoga. These practices promote self-care and a balanced lifestyle, supporting the body’s natural healing abilities. On feelhealthy.github.io, we offer information and resources to help you achieve a more holistic approach to your own health and wellbeing."
+}

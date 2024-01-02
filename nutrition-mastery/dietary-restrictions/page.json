@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/understanding-food-allergies-and-intolerances.jpg",
+      "name": "Understanding Food Allergies and Intolerances",
+      "url": "./understanding-food-allergies-and-intolerances/"
+    },
+    {
+      "img": "menu/living-with-celiac-disease-a-guide-to-gluten-free-living.jpg",
+      "name": "Living with Celiac Disease: A Guide to Gluten-Free Living",
+      "url": "./living-with-celiac-disease-a-guide-to-gluten-free-living/"
+    },
+    {
+      "img": "menu/the-benefits-of-a-dairy-free-lifestyle.jpg",
+      "name": "The Benefits of a Dairy-Free Lifestyle",
+      "url": "./the-benefits-of-a-dairy-free-lifestyle/"
+    },
+    {
+      "img": "menu/navigating-a-plant-based-diet-tips-and-tricks.jpg",
+      "name": "Navigating a Plant-Based Diet: Tips and Tricks",
+      "url": "./navigating-a-plant-based-diet-tips-and-tricks/"
+    },
+    {
+      "img": "menu/how-to-maintain-a-balanced-diet-with-dietary-restrictions.jpg",
+      "name": "How to Maintain a Balanced Diet with Dietary Restrictions",
+      "url": "./how-to-maintain-a-balanced-diet-with-dietary-restrictions/"
+    }
+  ],
+  "title": "Dietary Restrictions",
+  "h1": "Dietary Restrictions",
+  "url": "https://feelhealthy.github.io/nutrition-mastery/dietary-restrictions/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Nutrition Mastery",
+      "url": "/nutrition-mastery/"
+    },
+    {
+      "name": "Dietary Restrictions",
+      "url": "/nutrition-mastery/dietary-restrictions/"
+    }
+  ],
+  "keywords": "dietary restrictions, food allergies, gluten-free, lactose intolerance, vegan, vegetarian, paleo, clean eating",
+  "description": "Learn about different dietary restrictions such as gluten-free, lactose intolerance, vegan, and more on feelhealthy.github.io.",
+  "about": "Dietary restrictions can be due to food allergies, medical conditions or lifestyle choices. Common restrictions include gluten-free, lactose intolerance, vegan, vegetarian, paleo and clean eating. feelhealthy.github.io provides information on various restrictions and how to navigate them for optimal health. We also share tips on food substitutes, meal planning ideas and recipes that cater to different restrictions. Whether you're looking to follow a specific diet or want to accommodate dietary needs of your loved ones, feelhealthy.github.io is your ultimate guide to dietary restrictions."
+}

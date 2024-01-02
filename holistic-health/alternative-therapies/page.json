@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/exploring-the-world-of-natural-remedies.jpg",
+      "name": "Exploring the World of Natural Remedies",
+      "url": "./exploring-the-world-of-natural-remedies/"
+    },
+    {
+      "img": "menu/acupuncture-ancient-wisdom-meets-modern-science.jpg",
+      "name": "Acupuncture: Ancient Wisdom Meets Modern Science",
+      "url": "./acupuncture-ancient-wisdom-meets-modern-science/"
+    },
+    {
+      "img": "menu/aromatherapy-unleashing-the-power-of-essential-oils.jpg",
+      "name": "Aromatherapy: Unleashing the Power of Essential Oils",
+      "url": "./aromatherapy-unleashing-the-power-of-essential-oils/"
+    },
+    {
+      "img": "menu/unlocking-the-potential-of-herbal-medicine.jpg",
+      "name": "Unlocking the Potential of Herbal Medicine",
+      "url": "./unlocking-the-potential-of-herbal-medicine/"
+    },
+    {
+      "img": "menu/homeopathy-a-gentle-approach-to-healing.jpg",
+      "name": "Homeopathy: A Gentle Approach to Healing",
+      "url": "./homeopathy-a-gentle-approach-to-healing/"
+    }
+  ],
+  "title": "Alternative Therapies",
+  "h1": "Alternative Therapies",
+  "url": "https://feelhealthy.github.io/holistic-health/alternative-therapies/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Holistic Health",
+      "url": "/holistic-health/"
+    },
+    {
+      "name": "Alternative Therapies",
+      "url": "/holistic-health/alternative-therapies/"
+    }
+  ],
+  "keywords": "Alternative Therapies, natural healing, holistic medicine, complementary medicine, acupuncture, chiropractic, homeopathy, herbalism",
+  "description": "Explore the world of Alternative Therapies and natural healing with Wellness Synthesis. Learn about holistic medicine, acupuncture, chiropractic, homeopathy, herbalism and all other complementary medicine practices.",
+  "about": "Alternative Therapies refer to non-conventional medical practices used in place of or in conjunction with traditional medicine to promote health and well-being. This includes acupuncture, chiropractic care, homeopathy, herbalism, massage therapy, energy healing, and many more. These therapies are based on the concept of treating the whole person, not just the symptoms of a particular illness. Alternative medicine focuses on the root cause of the problem, promoting wellness and prevention rather than just treating symptoms. While some of these therapies have been around for thousands of years, they have gained popularity in recent years and are often used as a complementary approach to traditional medicine. Wellness Synthesis is your go-to resource for learning about all aspects of Alternative Therapies and natural healing. We provide information on everything from the benefits of acupuncture to the science of herbalism. Explore and discover the many ways Alternative Therapies can contribute to your overall health and wellness."
+}

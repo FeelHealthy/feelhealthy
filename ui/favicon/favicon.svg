@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="40px" height="40px">
+	<svg viewBox="0.011 0.587 40 40" width="40px" height="40px" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+		<path d="M 27.747 12.851 L 27.747 0.587 L 12.275 0.587 L 12.275 12.851 L 0.011 12.851 L 0.011 28.323 L 12.275 28.323 L 12.275 40.587 L 27.747 40.587 L 27.747 28.323 L 40.011 28.323 L 40.011 12.851 L 27.747 12.851 Z" fill="#00997B">
+		</path>
+		<path d="M 17.815 13.163 H 22.163 V 18.69 H 27.857 V 22.71 H 22.163 V 28.237 H 17.815 V 22.71 H 12.121 V 18.69 H 17.815 Z" style="fill: rgb(255, 255, 255);" bx:shape="cross 12.121 13.163 15.736 15.074 4.02 4.348 0.5 1@cf6de6c2" bx:origin="0.504403 0.5">
+		</path>
+	</svg>
+	<style>
+		@media (prefers-color-scheme: light) { :root { filter: none; } }
+	</style>
+</svg>

@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-science-behind-functional-training.jpg",
+      "name": "The Science Behind Functional Training",
+      "url": "./the-science-behind-functional-training/"
+    },
+    {
+      "img": "menu/building-core-strength-and-stability.jpg",
+      "name": "Building Core Strength and Stability",
+      "url": "./building-core-strength-and-stability/"
+    },
+    {
+      "img": "menu/the-role-of-functional-training-in-injury-prevention.jpg",
+      "name": "The Role of Functional Training in Injury Prevention",
+      "url": "./the-role-of-functional-training-in-injury-prevention/"
+    },
+    {
+      "img": "menu/functional-training-exercises-for-everyday-life.jpg",
+      "name": "Functional Training Exercises for Everyday Life",
+      "url": "./functional-training-exercises-for-everyday-life/"
+    },
+    {
+      "img": "menu/the-benefits-of-functional-training-for-athletes.jpg",
+      "name": "The Benefits of Functional Training for Athletes",
+      "url": "./the-benefits-of-functional-training-for-athletes/"
+    }
+  ],
+  "title": "Functional Training",
+  "h1": "Functional Training",
+  "url": "https://feelhealthy.github.io/fitness-evolution/functional-training/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Fitness Evolution",
+      "url": "/fitness-evolution/"
+    },
+    {
+      "name": "Functional Training",
+      "url": "/fitness-evolution/functional-training/"
+    }
+  ],
+  "keywords": "Functional training, Functional fitness, Strength training, Endurance training, Movement patterns, Flexibility, Mobility, Core strength, Full body workout",
+  "description": "Explore the principles of functional training and learn how it can help you build strength, agility, and flexibility. Discover a variety of functional exercises and workouts for a full body conditioning.",
+  "about": "Functional training focuses on developing the body’s ability to perform everyday movements with ease and efficiency. Unlike traditional weightlifting, which isolates specific muscle groups, functional training emphasizes multi-joint movements that engage the entire body. By incorporating exercises that mimic natural movement patterns, functional training helps improve overall strength, endurance, balance, and flexibility. This type of training is suitable for people of all fitness levels, from beginners to advanced athletes. At Wellness Synthesis, we provide a wide range of functional workouts and exercises to help you reach your fitness goals in a fun and challenging way. Our experienced trainers can guide you through proper form and technique to ensure safety and maximum results."
+}

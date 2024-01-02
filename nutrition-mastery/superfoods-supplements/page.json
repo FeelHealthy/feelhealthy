@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/unlocking-the-potential-of-superfoods.jpg",
+      "name": "Unlocking the Potential of Superfoods",
+      "url": "./unlocking-the-potential-of-superfoods/"
+    },
+    {
+      "img": "menu/debunking-common-myths-about-supplements.jpg",
+      "name": "Debunking Common Myths About Supplements",
+      "url": "./debunking-common-myths-about-supplements/"
+    },
+    {
+      "img": "menu/choosing-the-right-supplements-for-your-needs.jpg",
+      "name": "Choosing the Right Supplements for Your Needs",
+      "url": "./choosing-the-right-supplements-for-your-needs/"
+    },
+    {
+      "img": "menu/the-power-of-antioxidants-and-phytonutrients.jpg",
+      "name": "The Power of Antioxidants and Phytonutrients",
+      "url": "./the-power-of-antioxidants-and-phytonutrients/"
+    },
+    {
+      "img": "menu/boosting-your-health-with-vitamins-and-minerals.jpg",
+      "name": "Boosting Your Health with Vitamins and Minerals",
+      "url": "./boosting-your-health-with-vitamins-and-minerals/"
+    }
+  ],
+  "title": "Superfoods & Supplements",
+  "h1": "Superfoods & Supplements",
+  "url": "https://feelhealthy.github.io/nutrition-mastery/superfoods-supplements/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Nutrition Mastery",
+      "url": "/nutrition-mastery/"
+    },
+    {
+      "name": "Superfoods & Supplements",
+      "url": "/nutrition-mastery/superfoods-supplements/"
+    }
+  ],
+  "keywords": "superfoods, supplements, health, nutrition, wellness",
+  "description": "Learn about the benefits of superfoods and supplements for optimal health and wellness at feelhealthy.github.io",
+  "about": "Superfoods and supplements are becoming increasingly popular for enhancing health and wellbeing. Superfoods are nutrient-dense foods that provide a range of health benefits, from boosting energy and reducing inflammation to improving brain function and preventing disease. Some popular superfoods include berries, leafy greens, nuts, and seeds. Supplements, on the other hand, are products that are taken to enhance nutritional intake, support a healthy immune system, or address specific health concerns. They can come in many forms, including vitamins, minerals, herbs, and natural extracts. While superfoods can be a great addition to any diet, it is important to remember that they should not be relied on as a substitute for a balanced, nutritious diet. Likewise, supplements should be taken under the guidance of a healthcare provider to ensure safe and effective use. At feelhealthy.github.io, we provide information and insights on the latest research and trends in the superfoods and supplements industry, so that you can make informed decisions about your health and wellness."
+}

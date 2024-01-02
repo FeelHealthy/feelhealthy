@@ -1,0 +1,41 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/balanced-diets.jpg",
+      "name": "Balanced Diets",
+      "url": "./balanced-diets/"
+    },
+    {
+      "img": "menu/superfoods-supplements.jpg",
+      "name": "Superfoods & Supplements",
+      "url": "./superfoods-supplements/"
+    },
+    {
+      "img": "menu/hydration-detox.jpg",
+      "name": "Hydration & Detox",
+      "url": "./hydration-detox/"
+    },
+    {
+      "img": "menu/dietary-restrictions.jpg",
+      "name": "Dietary Restrictions",
+      "url": "./dietary-restrictions/"
+    }
+  ],
+  "title": "Nutrition Mastery",
+  "h1": "Nutrition Mastery",
+  "url": "https://feelhealthy.github.io/nutrition-mastery/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Nutrition Mastery",
+      "url": "/nutrition-mastery/"
+    }
+  ],
+  "keywords": "nutrition, healthy eating, dieting, weight management, food science, wellness",
+  "description": "Unlock your nutrition mastery with expert guidance and effective strategies at Wellness Synthesis. Get started on your journey to healthy eating and weight management today!",
+  "about": "Nutrition mastery is the ultimate goal for anyone looking to optimize their health and wellbeing through a balanced and wholesome diet. At Wellness Synthesis, we believe that nutrition is not just about counting calories or following fad diets, but a holistic approach that involves understanding the science of food, exploring new tastes and textures, and building sustainable habits for long-term success. Our expert team of nutritionists and wellness coaches can help you unlock your true potential by providing personalized guidance and support tailored to your unique needs and preferences. Whether you're looking to lose weight, manage a chronic condition, or simply improve your overall health and vitality, we have the tools and strategies to help you get there. From meal planning and recipe ideas to expert advice on navigating the confusing world of food science, Wellness Synthesis is your go-to resource for all things nutrition. So why wait? Join our community today and start your journey towards nutrition mastery!"
+}

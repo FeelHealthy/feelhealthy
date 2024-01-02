@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/a-beginners-guide-to-meditation.jpg",
+      "name": "A Beginner's Guide to Meditation",
+      "url": "./a-beginners-guide-to-meditation/"
+    },
+    {
+      "img": "menu/exploring-different-types-of-meditation.jpg",
+      "name": "Exploring Different Types of Meditation",
+      "url": "./exploring-different-types-of-meditation/"
+    },
+    {
+      "img": "menu/how-to-build-a-daily-meditation-practice.jpg",
+      "name": "How to Build a Daily Meditation Practice",
+      "url": "./how-to-build-a-daily-meditation-practice/"
+    },
+    {
+      "img": "menu/the-science-of-meditation-brain-changes-and-benefits.jpg",
+      "name": "The Science of Meditation: Brain Changes and Benefits",
+      "url": "./the-science-of-meditation-brain-changes-and-benefits/"
+    },
+    {
+      "img": "menu/techniques-for-deeper-and-more-effective-meditation.jpg",
+      "name": "Techniques for Deeper and More Effective Meditation",
+      "url": "./techniques-for-deeper-and-more-effective-meditation/"
+    }
+  ],
+  "title": "Meditation Techniques",
+  "h1": "Meditation Techniques",
+  "url": "https://feelhealthy.github.io/mindful-living/meditation-techniques/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Mindful Living",
+      "url": "/mindful-living/"
+    },
+    {
+      "name": "Meditation Techniques",
+      "url": "/mindful-living/meditation-techniques/"
+    }
+  ],
+  "keywords": "meditation, techniques, mindfulness, relaxation, spirituality",
+  "description": "Learn different meditation techniques to practice mindfulness, relax your mind and body, and enhance your spiritual journey on feelhealthy.github.io.",
+  "about": "Meditation has numerous benefits and has been practiced for centuries in various cultures. It is a technique to relax the mind and body, release stress and anxiety, increase focus and concentration, and enhance spiritual awareness. At feelhealthy.github.io, we provide a comprehensive guide to different meditation techniques, including mindfulness, guided meditation, transcendental meditation, Zen meditation, and more. Our resources include step-by-step instructions, video tutorials, and helpful tips for beginners and experienced practitioners. Experience the benefits of meditation and improve your overall well-being today."
+}

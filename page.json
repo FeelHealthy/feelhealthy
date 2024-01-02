@@ -1,0 +1,42 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/holistic-health.jpg",
+      "name": "Holistic Health",
+      "url": "./holistic-health/"
+    },
+    {
+      "img": "menu/mindful-living.jpg",
+      "name": "Mindful Living",
+      "url": "./mindful-living/"
+    },
+    {
+      "img": "menu/nutrition-mastery.jpg",
+      "name": "Nutrition Mastery",
+      "url": "./nutrition-mastery/"
+    },
+    {
+      "img": "menu/fitness-evolution.jpg",
+      "name": "Fitness Evolution",
+      "url": "./fitness-evolution/"
+    },
+    {
+      "img": "menu/stress-resilience.jpg",
+      "name": "Stress Resilience",
+      "url": "./stress-resilience/"
+    }
+  ],
+  "title": "feelhealthy.github.io",
+  "h1": "feelhealthy.github.io",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    }
+  ],
+  "url": "https://feelhealthy.github.io/",
+  "keywords": "wellness, health, holistic, synthesis, wellbeing, meditation, mindfulness, yoga, nutrition, fitness, self-care, natural remedies",
+  "description": "Wellness Synthesis is a website devoted to holistic health and wellbeing, offering information on meditation, mindfulness, yoga, nutrition, fitness, self-care and natural remedies.",
+  "about": "Wellness Synthesis is a website dedicated to promoting holistic health and wellbeing. Our mission is to educate and inspire individuals to take charge of their health by adopting a more mindful and holistic approach. We provide expert advice and up-to-date information on a variety of topics, including meditation, mindfulness, yoga, nutrition, fitness, self-care, and natural remedies. Our goal is to help individuals achieve balance and harmony in all aspects of their lives, so they can live their healthiest, happiest, and most fulfilling life. Whether you're looking to improve your physical health, reduce stress, or enhance your overall wellbeing, Wellness Synthesis has something for you. Join our community today and start your journey towards optimal health and wellness."
+}

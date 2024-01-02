@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-importance-of-proper-hydration.jpg",
+      "name": "The Importance of Proper Hydration",
+      "url": "./the-importance-of-proper-hydration/"
+    },
+    {
+      "img": "menu/debunking-common-detox-myths.jpg",
+      "name": "Debunking Common Detox Myths",
+      "url": "./debunking-common-detox-myths/"
+    },
+    {
+      "img": "menu/healthy-and-natural-ways-to-support-detoxification.jpg",
+      "name": "Healthy and Natural Ways to Support Detoxification",
+      "url": "./healthy-and-natural-ways-to-support-detoxification/"
+    },
+    {
+      "img": "menu/the-benefits-of-drinking-herbal-teas.jpg",
+      "name": "The Benefits of Drinking Herbal Teas",
+      "url": "./the-benefits-of-drinking-herbal-teas/"
+    },
+    {
+      "img": "menu/staying-hydrated-tips-for-every-lifestyle.jpg",
+      "name": "Staying Hydrated: Tips for Every Lifestyle",
+      "url": "./staying-hydrated-tips-for-every-lifestyle/"
+    }
+  ],
+  "title": "Hydration & Detox",
+  "h1": "Hydration & Detox",
+  "url": "https://feelhealthy.github.io/nutrition-mastery/hydration-detox/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Nutrition Mastery",
+      "url": "/nutrition-mastery/"
+    },
+    {
+      "name": "Hydration & Detox",
+      "url": "/nutrition-mastery/hydration-detox/"
+    }
+  ],
+  "keywords": "Hydration, Detox, Electrolytes, Water, Health, Wellness",
+  "description": "Improve your health and well-being with hydration and detox. Learn about the importance of electrolytes and water for optimum hydration and the benefits of detoxing for rejuvenation.",
+  "about": "Hydration and detox are two essential aspects of maintaining a healthy body and mind. Staying hydrated is crucial for our body's proper functioning, and the lack of water can lead to dehydration, fatigue, and other health problems. Additionally, electrolytes play a vital role in hydration, as they help regulate fluid balance, nerve, and muscle function. Moreover, detoxing is a process of removing toxins from the body, which can help boost energy levels, improve immune function, and aid in weight loss. At Wellness Synthesis, we offer expert guidance on hydration and detox, including tips and tricks to improve your routine effectively. Visit us today to learn more!"
+}

@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/designing-the-perfect-workout-routine.jpg",
+      "name": "Designing the Perfect Workout Routine",
+      "url": "./designing-the-perfect-workout-routine/"
+    },
+    {
+      "img": "menu/the-power-of-high-intensity-interval-training-hiit.jpg",
+      "name": "The Power of High-Intensity Interval Training (HIIT)",
+      "url": "./the-power-of-high-intensity-interval-training-hiit/"
+    },
+    {
+      "img": "menu/the-benefits-of-strength-training-for-all-ages.jpg",
+      "name": "The Benefits of Strength Training for All Ages",
+      "url": "./the-benefits-of-strength-training-for-all-ages/"
+    },
+    {
+      "img": "menu/the-mind-body-connection-the-role-of-yoga-in-fitness.jpg",
+      "name": "The Mind-Body Connection: The Role of Yoga in Fitness",
+      "url": "./the-mind-body-connection-the-role-of-yoga-in-fitness/"
+    },
+    {
+      "img": "menu/how-to-stay-motivated-and-consistent-with-exercise.jpg",
+      "name": "How to Stay Motivated and Consistent with Exercise",
+      "url": "./how-to-stay-motivated-and-consistent-with-exercise/"
+    }
+  ],
+  "title": "Exercise Regimens",
+  "h1": "Exercise Regimens",
+  "url": "https://feelhealthy.github.io/fitness-evolution/exercise-regimens/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Fitness Evolution",
+      "url": "/fitness-evolution/"
+    },
+    {
+      "name": "Exercise Regimens",
+      "url": "/fitness-evolution/exercise-regimens/"
+    }
+  ],
+  "keywords": "fitness, workout, exercise program, health, wellness, gym, strength training, cardio, yoga, stretching",
+  "description": "Discover the optimal exercise regimen for your health and fitness goals on feelhealthy.github.io. Explore our articles, routines, and resources for a stronger, more resilient body.",
+  "about": "At feelhealthy.github.io, we understand that finding the right exercise regimen can be a challenge. That's why we've created a comprehensive resource to help you build a program that's effective, sustainable, and tailored to your unique needs. From strength training to cardio and everything in between, our articles, routines, and resources are backed by the latest research and expert guidance. Whether you're a seasoned athlete or just getting started, we're here to help you achieve your health and fitness goals. Join the feelhealthy.github.io community today and start building the body you've always wanted."
+}

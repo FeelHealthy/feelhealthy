@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/designing-spaces-that-promote-wellness.jpg",
+      "name": "Designing Spaces that Promote Wellness",
+      "url": "./designing-spaces-that-promote-wellness/"
+    },
+    {
+      "img": "menu/the-impact-of-nature-on-well-being.jpg",
+      "name": "The Impact of Nature on Well-being",
+      "url": "./the-impact-of-nature-on-well-being/"
+    },
+    {
+      "img": "menu/creating-a-relaxing-and-nurturing-home-environment.jpg",
+      "name": "Creating a Relaxing and Nurturing Home Environment",
+      "url": "./creating-a-relaxing-and-nurturing-home-environment/"
+    },
+    {
+      "img": "menu/the-role-of-art-and-music-in-healing.jpg",
+      "name": "The Role of Art and Music in Healing",
+      "url": "./the-role-of-art-and-music-in-healing/"
+    },
+    {
+      "img": "menu/how-color-affects-your-mood-and-health.jpg",
+      "name": "How Color Affects Your Mood and Health",
+      "url": "./how-color-affects-your-mood-and-health/"
+    }
+  ],
+  "title": "Healing Environments",
+  "h1": "Healing Environments",
+  "url": "https://feelhealthy.github.io/holistic-health/healing-environments/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Holistic Health",
+      "url": "/holistic-health/"
+    },
+    {
+      "name": "Healing Environments",
+      "url": "/holistic-health/healing-environments/"
+    }
+  ],
+  "keywords": "healing environments, therapeutic spaces, peaceful surroundings, nature, positive atmosphere",
+  "description": "Discover the benefits of healing environments and how they support wellness. Read about therapeutic spaces, peaceful surroundings, and the importance of nature and positive atmosphere.",
+  "about": "Healing environments refer to physical spaces designed to support the wellbeing of individuals. These spaces are meant to promote physical, mental, and emotional healing among people. The idea behind healing environments is that the surroundings play an important role in human health and wellness. A healing environment can be created both indoors and outdoors through various design elements and techniques. Therapeutic spaces consist of an environment that provides comfort, safety, and privacy for patients. Peaceful surroundings create a relaxing and calming atmosphere that enhances healing. Nature is a vital component in creating a healing environment as it has a positive effect on mental and emotional health. Positive atmosphere involves the use of natural light, color, and fragrance to create a positive mood and reduce stress. When incorporated into healthcare facilities, healing environments can improve patient outcomes and satisfaction, and reduce stress among caregivers."
+}

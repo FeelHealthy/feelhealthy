@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-science-of-sleep-why-we-need-it-and-how-it-works.jpg",
+      "name": "The Science of Sleep: Why We Need It and How It Works",
+      "url": "./the-science-of-sleep-why-we-need-it-and-how-it-works/"
+    },
+    {
+      "img": "menu/creating-the-perfect-sleep-environment.jpg",
+      "name": "Creating the Perfect Sleep Environment",
+      "url": "./creating-the-perfect-sleep-environment/"
+    },
+    {
+      "img": "menu/tips-for-establishing-a-healthy-sleep-routine.jpg",
+      "name": "Tips for Establishing a Healthy Sleep Routine",
+      "url": "./tips-for-establishing-a-healthy-sleep-routine/"
+    },
+    {
+      "img": "menu/how-to-combat-insomnia-and-sleep-disorders.jpg",
+      "name": "How to Combat Insomnia and Sleep Disorders",
+      "url": "./how-to-combat-insomnia-and-sleep-disorders/"
+    },
+    {
+      "img": "menu/the-connection-between-sleep-and-overall-health.jpg",
+      "name": "The Connection Between Sleep and Overall Health",
+      "url": "./the-connection-between-sleep-and-overall-health/"
+    }
+  ],
+  "title": "Sleep Optimization",
+  "h1": "Sleep Optimization",
+  "url": "https://feelhealthy.github.io/stress-resilience/sleep-optimization/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Stress Resilience",
+      "url": "/stress-resilience/"
+    },
+    {
+      "name": "Sleep Optimization",
+      "url": "/stress-resilience/sleep-optimization/"
+    }
+  ],
+  "keywords": "sleep optimization, sleep strategies, sleep hygiene, cognitive behavioral therapy for insomnia (CBT-I), sleep tracking, sleep aids",
+  "description": "Learn about tips and strategies for optimizing your sleep and enhancing your overall wellness on feelhealthy.github.io.",
+  "about": "Sleep optimization involves adopting healthy sleep habits and identifying the factors that may be disrupting your sleep. Strategies for optimizing sleep include practicing good sleep hygiene, using sleep aids and tracking tools, and incorporating cognitive-behavioral therapy for insomnia (CBT-I) techniques. At feelhealthy.github.io, we provide valuable insights and information about how to optimize your sleep so you can boost your energy, productivity, and overall well-being."
+}

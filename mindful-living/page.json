@@ -1,0 +1,41 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/meditation-techniques.jpg",
+      "name": "Meditation Techniques",
+      "url": "./meditation-techniques/"
+    },
+    {
+      "img": "menu/mindfulness-practices.jpg",
+      "name": "Mindfulness Practices",
+      "url": "./mindfulness-practices/"
+    },
+    {
+      "img": "menu/emotional-intelligence.jpg",
+      "name": "Emotional Intelligence",
+      "url": "./emotional-intelligence/"
+    },
+    {
+      "img": "menu/conscious-relationships.jpg",
+      "name": "Conscious Relationships",
+      "url": "./conscious-relationships/"
+    }
+  ],
+  "title": "Mindful Living",
+  "h1": "Mindful Living",
+  "url": "https://feelhealthy.github.io/mindful-living/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Mindful Living",
+      "url": "/mindful-living/"
+    }
+  ],
+  "keywords": "mindful living, mindfulness, being present, self-awareness, mental health, healthy habits, stress reduction",
+  "description": "Learn about mindful living and how it can benefit your mental and physical health. Discover simple techniques to reduce stress and develop healthy habits for a more balanced life.",
+  "about": "Mindful living is a concept that involves being present and fully engaged in the current moment. It's about cultivating self-awareness and developing an understanding of one's thoughts, emotions, and physical sensations. This way of living promotes mental and physical health by reducing stress and increasing overall well-being. At Wellness Synthesis, we provide resources for individuals who are interested in incorporating mindful living practices into their daily routines. From mindfulness techniques to healthy habits, our team of experts share valuable insights to help you achieve a more balanced life. Join us on this journey towards greater self-awareness and wellbeing."
+}

@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/understanding-the-components-of-emotional-intelligence.jpg",
+      "name": "Understanding the Components of Emotional Intelligence",
+      "url": "./understanding-the-components-of-emotional-intelligence/"
+    },
+    {
+      "img": "menu/cultivating-emotional-intelligence-for-success.jpg",
+      "name": "Cultivating Emotional Intelligence for Success",
+      "url": "./cultivating-emotional-intelligence-for-success/"
+    },
+    {
+      "img": "menu/emotional-intelligence-in-the-workplace.jpg",
+      "name": "Emotional Intelligence in the Workplace",
+      "url": "./emotional-intelligence-in-the-workplace/"
+    },
+    {
+      "img": "menu/improving-relationships-with-emotional-intelligence.jpg",
+      "name": "Improving Relationships with Emotional Intelligence",
+      "url": "./improving-relationships-with-emotional-intelligence/"
+    },
+    {
+      "img": "menu/how-emotional-intelligence-affects-mental-health.jpg",
+      "name": "How Emotional Intelligence Affects Mental Health",
+      "url": "./how-emotional-intelligence-affects-mental-health/"
+    }
+  ],
+  "title": "Emotional Intelligence",
+  "h1": "Emotional Intelligence",
+  "url": "https://feelhealthy.github.io/mindful-living/emotional-intelligence/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Mindful Living",
+      "url": "/mindful-living/"
+    },
+    {
+      "name": "Emotional Intelligence",
+      "url": "/mindful-living/emotional-intelligence/"
+    }
+  ],
+  "keywords": "Emotional Intelligence, Self-awareness, Empathy, Social Skills, Relationship Management",
+  "description": "Learn about Emotional Intelligence and how it can improve your well-being. Explore techniques to enhance self-awareness, empathy, and social skills for better relationship management.",
+  "about": "Emotional Intelligence (EI) is the ability to understand and manage one's emotions effectively while also recognizing and empathizing with the emotional states of others. It is a key aspect of personal and professional success, influencing the quality of relationships with others and our overall well-being. In this section, we explore the fundamentals of emotional intelligence, including self-awareness, self-regulation, motivation, empathy, and social skills. We'll discuss techniques and tips for enhancing emotional intelligence, such as active listening, conflict resolution, and stress management strategies. By developing and practicing emotional intelligence, you can improve your relationships, work performance, and overall quality of life."
+}

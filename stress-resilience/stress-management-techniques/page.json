@@ -1,0 +1,45 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/understanding-the-impact-of-chronic-stress-on-health.jpg",
+      "name": "Understanding the Impact of Chronic Stress on Health",
+      "url": "./understanding-the-impact-of-chronic-stress-on-health/"
+    },
+    {
+      "img": "menu/breathing-exercises-for-instant-stress-relief.jpg",
+      "name": "Breathing Exercises for Instant Stress Relief",
+      "url": "./breathing-exercises-for-instant-stress-relief/"
+    },
+    {
+      "img": "menu/the-role-of-physical-activity-in-reducing-stress.jpg",
+      "name": "The Role of Physical Activity in Reducing Stress",
+      "url": "./the-role-of-physical-activity-in-reducing-stress/"
+    },
+    {
+      "img": "menu/mindful-practices-for-stress-reduction.jpg",
+      "name": "Mindful Practices for Stress Reduction",
+      "url": "./mindful-practices-for-stress-reduction/"
+    }
+  ],
+  "title": "Stress Management Techniques",
+  "h1": "Stress Management Techniques",
+  "url": "https://feelhealthy.github.io/stress-resilience/stress-management-techniques/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Stress Resilience",
+      "url": "/stress-resilience/"
+    },
+    {
+      "name": "Stress Management Techniques",
+      "url": "/stress-resilience/stress-management-techniques/"
+    }
+  ],
+  "keywords": "stress management, stress relief, relaxation techniques, mindfulness, meditation, exercise",
+  "description": "Find effective stress management techniques and relaxation strategies to help you cope with stress and improve your well-being. Discover mindfulness, meditation, exercise and other tips to reduce stress in your life",
+  "about": "Stress is a prevalent issue in today's fast-paced world, and it can negatively impact our physical and mental health if left unmanaged. That's why it's important to develop and implement stress management techniques in our daily lives. At feelhealthy.github.io, we offer a variety of stress-relieving methods to help individuals overcome stress and improve their overall well-being. Our website features resources on stress management, including tips on relaxation techniques like mindfulness and meditation, physical exercise, and other calming strategies. By incorporating these practices into your daily routine, you can decrease stress levels and increase your overall wellness. Whether you're looking for quick stress relief tactics or long-term solutions to combat stress, our website is the perfect resource for you."
+}

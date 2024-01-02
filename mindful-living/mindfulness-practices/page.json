@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/mindful-eating-a-path-to-better-health.jpg",
+      "name": "Mindful Eating: A Path to Better Health",
+      "url": "./mindful-eating-a-path-to-better-health/"
+    },
+    {
+      "img": "menu/the-art-of-mindful-communication.jpg",
+      "name": "The Art of Mindful Communication",
+      "url": "./the-art-of-mindful-communication/"
+    },
+    {
+      "img": "menu/using-mindfulness-to-improve-focus-and-productivity.jpg",
+      "name": "Using Mindfulness to Improve Focus and Productivity",
+      "url": "./using-mindfulness-to-improve-focus-and-productivity/"
+    },
+    {
+      "img": "menu/incorporating-mindfulness-into-daily-life.jpg",
+      "name": "Incorporating Mindfulness into Daily Life",
+      "url": "./incorporating-mindfulness-into-daily-life/"
+    },
+    {
+      "img": "menu/the-connection-between-mindfulness-and-emotional-well-being.jpg",
+      "name": "The Connection Between Mindfulness and Emotional Well-being",
+      "url": "./the-connection-between-mindfulness-and-emotional-well-being/"
+    }
+  ],
+  "title": "Mindfulness Practices",
+  "h1": "Mindfulness Practices",
+  "url": "https://feelhealthy.github.io/mindful-living/mindfulness-practices/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Mindful Living",
+      "url": "/mindful-living/"
+    },
+    {
+      "name": "Mindfulness Practices",
+      "url": "/mindful-living/mindfulness-practices/"
+    }
+  ],
+  "keywords": "mindfulness, meditation, mindfulness practices, mental health, stress reduction",
+  "description": "Discover the benefits of mindfulness practices and learn techniques to reduce stress, improve mental health, and enhance overall well-being on feelhealthy.github.io.",
+  "about": "Mindfulness is the practice of being present in the moment and aware of your thoughts, feelings, and surrounding environment. Through various techniques including meditation, deep breathing, and body scans, mindfulness can help reduce stress, alleviate anxiety and depression, and improve overall mental health. At feelhealthy.github.io, you can learn about the benefits of mindfulness practices, explore different techniques for incorporating mindfulness into your daily routine, and discover how mindfulness can enhance your overall well-being. Whether you're a beginner or an experienced practitioner, our resources and guidance can support you in developing a lifelong mindfulness practice."
+}

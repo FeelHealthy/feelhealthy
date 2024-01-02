@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/building-stronger-and-deeper-connections.jpg",
+      "name": "Building Stronger and Deeper Connections",
+      "url": "./building-stronger-and-deeper-connections/"
+    },
+    {
+      "img": "menu/conflict-resolution-in-conscious-relationships.jpg",
+      "name": "Conflict Resolution in Conscious Relationships",
+      "url": "./conflict-resolution-in-conscious-relationships/"
+    },
+    {
+      "img": "menu/the-importance-of-empathy-and-understanding.jpg",
+      "name": "The Importance of Empathy and Understanding",
+      "url": "./the-importance-of-empathy-and-understanding/"
+    },
+    {
+      "img": "menu/fostering-emotional-intimacy-and-trust.jpg",
+      "name": "Fostering Emotional Intimacy and Trust",
+      "url": "./fostering-emotional-intimacy-and-trust/"
+    },
+    {
+      "img": "menu/the-role-of-self-awareness-in-conscious-relationships.jpg",
+      "name": "The Role of Self-Awareness in Conscious Relationships",
+      "url": "./the-role-of-self-awareness-in-conscious-relationships/"
+    }
+  ],
+  "title": "Conscious Relationships",
+  "h1": "Conscious Relationships",
+  "url": "https://feelhealthy.github.io/mindful-living/conscious-relationships/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Mindful Living",
+      "url": "/mindful-living/"
+    },
+    {
+      "name": "Conscious Relationships",
+      "url": "/mindful-living/conscious-relationships/"
+    }
+  ],
+  "keywords": "conscious relationships, mindful relationships, healthy relationships, intimacy, communication, self-awareness",
+  "description": "Learn how to cultivate conscious and healthy relationships through communication, self-awareness, and mindfulness practices on feelhealthy.github.io.",
+  "about": "Conscious relationships, also known as mindful relationships, are about cultivating a deeper connection and understanding between partners. It is an intentional approach to creating healthy relationships that are built on the pillars of communication, respect, trust, and self-awareness. Conscious relationships involve ongoing practices of introspection, communication, and mindfulness to help partners stay connected and build a strong foundation. Effective communication skills and the ability to regulate emotions are essential in cultivating conscious relationships. At feelhealthy.github.io, you can learn tips and techniques for developing and maintaining conscious relationships, including strategies for resolving conflicts, managing stress, and enhancing intimacy."
+}

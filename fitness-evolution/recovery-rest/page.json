@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-science-of-muscle-recovery-and-repair.jpg",
+      "name": "The Science of Muscle Recovery and Repair",
+      "url": "./the-science-of-muscle-recovery-and-repair/"
+    },
+    {
+      "img": "menu/sleep-and-exercise-the-importance-of-rest-days.jpg",
+      "name": "Sleep and Exercise: The Importance of Rest Days",
+      "url": "./sleep-and-exercise-the-importance-of-rest-days/"
+    },
+    {
+      "img": "menu/active-recovery-techniques-for-optimal-performance.jpg",
+      "name": "Active Recovery Techniques for Optimal Performance",
+      "url": "./active-recovery-techniques-for-optimal-performance/"
+    },
+    {
+      "img": "menu/the-role-of-nutrition-in-recovery.jpg",
+      "name": "The Role of Nutrition in Recovery",
+      "url": "./the-role-of-nutrition-in-recovery/"
+    },
+    {
+      "img": "menu/the-benefits-of-massage-and-foam-rolling.jpg",
+      "name": "The Benefits of Massage and Foam Rolling",
+      "url": "./the-benefits-of-massage-and-foam-rolling/"
+    }
+  ],
+  "title": "Recovery & Rest",
+  "h1": "Recovery & Rest",
+  "url": "https://feelhealthy.github.io/fitness-evolution/recovery-rest/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Fitness Evolution",
+      "url": "/fitness-evolution/"
+    },
+    {
+      "name": "Recovery & Rest",
+      "url": "/fitness-evolution/recovery-rest/"
+    }
+  ],
+  "keywords": "recovery, rest, wellness, health, self-care, stress relief, relaxation",
+  "description": "Discover the importance of recovery and rest for your overall wellness. Learn self-care strategies to relieve stress and enhance relaxation.",
+  "about": "Recovery and rest are essential components of a holistic approach to wellness. In today's fast-paced world, it's easy to feel overwhelmed by stress and anxiety. That's why it's important to prioritize self-care strategies, such as mindful breathing, meditation, and gentle movement. By taking the time to rest and recharge, we can reduce stress, improve mental clarity, and enhance our physical health. Our website, feelhealthy.github.io, provides resources and guidance on how to incorporate recovery and rest practices into your daily routine. Whether you're looking to find relaxation techniques, build a self-care routine, or simply learn more about the benefits of recovery and rest, we're here to support you on your wellness journey."
+}

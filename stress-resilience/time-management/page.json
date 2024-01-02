@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-benefits-of-effective-time-management.jpg",
+      "name": "The Benefits of Effective Time Management",
+      "url": "./the-benefits-of-effective-time-management/"
+    },
+    {
+      "img": "menu/prioritizing-tasks-for-better-productivity.jpg",
+      "name": "Prioritizing Tasks for Better Productivity",
+      "url": "./prioritizing-tasks-for-better-productivity/"
+    },
+    {
+      "img": "menu/the-power-of-time-blocking-and-scheduling.jpg",
+      "name": "The Power of Time Blocking and Scheduling",
+      "url": "./the-power-of-time-blocking-and-scheduling/"
+    },
+    {
+      "img": "menu/strategies-for-overcoming-procrastination.jpg",
+      "name": "Strategies for Overcoming Procrastination",
+      "url": "./strategies-for-overcoming-procrastination/"
+    },
+    {
+      "img": "menu/balancing-work-life-and-personal-time.jpg",
+      "name": "Balancing Work, Life, and Personal Time",
+      "url": "./balancing-work-life-and-personal-time/"
+    }
+  ],
+  "title": "Time Management",
+  "h1": "Time Management",
+  "url": "https://feelhealthy.github.io/stress-resilience/time-management/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Stress Resilience",
+      "url": "/stress-resilience/"
+    },
+    {
+      "name": "Time Management",
+      "url": "/stress-resilience/time-management/"
+    }
+  ],
+  "keywords": "Time Management, Productivity, Efficiency, Prioritization, Organizational Skills",
+  "description": "Learn about time management techniques to improve your productivity and efficiency at feelhealthy.github.io",
+  "about": "Time management is the process of organizing and planning how much time you spend on specific tasks and activities in order to maximize productivity and achieve your goals. It involves prioritizing tasks, establishing a schedule, and developing organizational skills. Effective time management can lead to reduced stress, increased work-life balance, and better overall performance. At feelhealthy.github.io, we provide tips and resources to help you improve your time management skills and boost your productivity."
+}
